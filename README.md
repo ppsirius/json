@@ -1,1 +1,1 @@
-(Demo)[http://ppsirius.github.io/json/]
+[DEMO](http://ppsirius.github.io/json/)
