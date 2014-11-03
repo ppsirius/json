@@ -1,0 +1,19 @@
+{
+    "success": 1,
+    "result": [
+        {
+            "id": "1",
+            "title": "Rezerwacja 1",
+            "date": 1404165600000,
+            "price": 450
+        },
+        {
+            "id": "2",
+            "title": "Rezerwacja 2",
+            "date": 1404165100000,
+            "price": 350
+        }
+    ],
+    
+    "message": "Jakiś komunikat"
+}
